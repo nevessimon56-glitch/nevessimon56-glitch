@@ -58,4 +58,4 @@ Apostila de engenharia de prompts em Markdown.
 IA e programação no SENAI Sumaré e na FAM.
 
 ## 📫 Vamos conversar
-[LinkedIn](https://www.linkedin.com/in/felipe-neves-29544a316) · [Site do Ar](https://www.sitedoar.com.br/)
+[LinkedIn](www.linkedin.com/in/felipe-neves-29544a316) · [Site do Ar](https://www.sitedoar.com.br/)
